@@ -9,7 +9,7 @@ int main(){
                 cout << "* ";
             }
             else if(i == 6){
-                cout << "* ";
+                cout<<" ";
             }
             else if(j == 0){
                 cout << "* ";
